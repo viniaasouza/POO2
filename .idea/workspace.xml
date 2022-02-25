@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89deea04-9750-4ba7-a5c5-b3cb6552dc36" name="Changes" comment="&quot;avançando em POO&quot;">
-      <change beforePath="$PROJECT_DIR$/modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelo.py" afterDir="false" />
-    </list>
+    <list default="true" id="89deea04-9750-4ba7-a5c5-b3cb6552dc36" name="Changes" comment="&quot;avançando em POO&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
